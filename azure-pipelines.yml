@@ -13,27 +13,12 @@ steps:
     version: '3.x'
     installationPath: $(Agent.ToolsDirectory)/dotnet
 
-- script: dotnet build --configuration Release
-  displayName: 'dotnet build'
-
-- task: DotNetCoreCLI@2
-  displayName: 'dotnet pack'
-  inputs:
-    command: pack
-    packagesToPack: '**/*.csproj'
-    configuration: Release
-    versioningScheme: byPrereleaseNumber
-    majorVersion: 1
-    minorVersion: 0
-    patchVersion: $(Build.BuildId)
-    includesymbols: true
-    includesource: true
+- script: |
+    dotnet build --configuration Release
+    dotnet pack --configuration Release --output $(Build.ArtifactStagingDirectory)
+  displayName: 'dotnet build and pack'
 
 - task: NuGetCommand@2
   inputs:
     command: 'push'
     packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
-    nuGetFeedType: 'internal'
-    publishVstsFeed: 'ArtifactFeed'
-    allowPackageConflicts: true
-  condition: and(succeeded(), ne(variables['Build.SourceBranch'], 'refs/tags/*'))
