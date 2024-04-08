@@ -1,0 +1,12 @@
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
