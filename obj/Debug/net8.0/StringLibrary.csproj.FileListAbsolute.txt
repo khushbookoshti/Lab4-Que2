@@ -10,3 +10,10 @@ C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001
 C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
 C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
 C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\KHUSHBOO KOSHTI\Desktop\KHUSHBOO_SEM_6\DevOps_Implementation_COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLi.6395F62D.Up2Date
